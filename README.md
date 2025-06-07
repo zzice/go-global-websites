@@ -9,6 +9,7 @@
   - [2. 域名注册商](#2-域名注册商)
 - [二、开发与部署](#二开发与部署)
   - [1. 代码托管与部署](#1-代码托管与部署)
+  - [2. Nuxt3 SaaS 模板](#2-nuxt3-saas-模板)
 - [三、数据分析与优化](#三数据分析与优化)
   - [1. 搜索引擎工具](#1-搜索引擎工具)
   - [2. 关键词研究工具](#2-关键词研究工具)
@@ -38,6 +39,13 @@
 | [![GitHub](https://img.shields.io/badge/GitHub-代码托管-black)](https://github.com) | 全球最大的代码托管平台，支持版本控制、协作开发和CI/CD |
 | [![Cloudflare](https://img.shields.io/badge/Cloudflare-云服务-orange)](https://cloudflare.com) | 提供CDN加速、DNS解析、DDoS防护、SSL证书等全方位服务 |
 | [![Vercel](https://img.shields.io/badge/Vercel-部署平台-black)](https://vercel.com) | 专注于前端项目的部署平台，支持自动部署、预览和性能优化 |
+
+### 2. Nuxt3 SaaS 模板
+| 网站 | 介绍 |
+|------|------|
+| [![NuxtPlus](https://img.shields.io/badge/NuxtPlus-SaaS模板-purple)](https://nuxtplus.com) | 专业的 Nuxt3 SaaS 模板，提供完整的用户认证、支付集成等功能 |
+| [![NuxtPro](https://img.shields.io/badge/NuxtPro-SaaS模板-purple)](https://nuxtpro.com) | 企业级 Nuxt3 SaaS 解决方案，包含多租户、团队协作等高级功能 |
+| [![NuxtBase](https://img.shields.io/badge/NuxtBase-SaaS模板-purple)](https://nuxtbase.site) | 轻量级 Nuxt3 SaaS 启动模板，适合快速开发小型 SaaS 应用 |
 
 ## 三、数据分析与优化
 
