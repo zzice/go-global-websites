@@ -84,6 +84,7 @@
 | [![Ahrefs](https://img.shields.io/badge/Ahrefs-SEO工具-red)](https://ahrefs.com/) | 全面的SEO工具，提供链接建设、关键词研究、竞争对手分析和网站审核的高级分析和见解 |
 | [![Similarweb](https://img.shields.io/badge/Similarweb-流量分析-purple)](https://www.similarweb.com/) | 数字情报平台，提供竞争对手网站流量和性能的洞察，帮助企业了解其市场份额和在线策略有效性 |
 | [![WooRank](https://img.shields.io/badge/WooRank-SEO检测-green)](https://www.woorank.com/) | 网站SEO健康检查工具，提供即时网站分析和优化建议 |
+| [![XML-Sitemaps](https://img.shields.io/badge/XML_Sitemaps-网站地图生成-blue)](https://www.xml-sitemaps.com/) | 专业的网站地图生成工具，支持创建XML、HTML、图片、视频和新闻网站地图，帮助搜索引擎更好地抓取网站内容 |
 
 ### 2. 网站性能分析
 | 网站 | 介绍 |
