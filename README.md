@@ -7,6 +7,7 @@
 - [一、域名服务](#一域名服务)
   - [1. 域名查询工具](#1-域名查询工具)
   - [2. 域名注册商](#2-域名注册商)
+  - [3. 域名知识学习](#3-域名知识学习)
 - [二、开发与部署](#二开发与部署)
   - [1. 代码托管与部署](#1-代码托管与部署)
   - [2. Nuxt3 SaaS 模板](#2-nuxt3-saas-模板)
@@ -35,6 +36,12 @@
 | [![Spaceship](https://img.shields.io/badge/Spaceship-域名注册-green)](https://spaceship.com) | 新兴域名注册商，提供具有竞争力的价格和优质服务 |
 | [![Porkbun](https://img.shields.io/badge/Porkbun-域名注册-green)](https://porkbun.com) | 提供域名注册、网站托管和SSL证书等一站式服务 |
 | [![Namecheap](https://img.shields.io/badge/Namecheap-域名注册-green)](https://namecheap.com) | 知名域名注册商，提供域名注册、网站建设、虚拟主机等服务 |
+
+### 3. 域名知识学习
+| 网站 | 介绍 |
+|------|------|
+| [![Cloudflare DNS](https://img.shields.io/badge/Cloudflare-域名指南-orange)](https://www.cloudflare.com/learning/dns/glossary/what-is-a-domain-name/) | Cloudflare提供的域名基础知识和DNS原理详解，帮助理解域名系统工作原理 |
+| [![Wiki Domain](https://img.shields.io/badge/Wikipedia-域名百科-blue)](https://en.wikipedia.org/wiki/Domain_name) | 维基百科的域名条目，包含域名的历史、结构和技术细节的全面介绍 |
 
 ## 二、开发与部署
 
@@ -114,6 +121,15 @@
 | [![Google Search Central](https://img.shields.io/badge/Search_Central-技术博客-blue)](https://developers.google.com/search/blog) | Google搜索中心博客，提供官方Google搜索核心算法更新、新功能公告和SEO最佳实践 |
 | [![Semrush Blog](https://img.shields.io/badge/Semrush-营销博客-orange)](https://www.semrush.com/blog/) | 专注于SEO、SEM、PPC和内容营销的专业博客 |
 | [![Backlinko](https://img.shields.io/badge/Backlinko-SEO培训-green)](https://backlinko.com/) | SEO最佳实践与实际结果相结合的平台，提供高级SEO培训和链接建设策略 |
+| [![SEO ZAC](https://img.shields.io/badge/SEO_ZAC-中文博客-green)](https://www.seozac.com/) | 知名中文SEO个人博客，提供SEO策略、技巧和行业动态分析 |
+| [![SEO Action](https://img.shields.io/badge/SEO_Action-实战派-red)](https://www.seoactionblog.com/) | 英文SEO实战派博客，专注于实用SEO技术和策略分享 |
+| [![Search Engine Land](https://img.shields.io/badge/Search_Engine_Land-行业资讯-blue)](https://searchengineland.com/) | 权威搜索引擎新闻和信息网站，报道搜索引擎营销、SEO和SEM的最新动态 |
+
+### 5. Google AdSense 资源
+| 网站 | 介绍 |
+|------|------|
+| [![AdSense Support](https://img.shields.io/badge/AdSense-官方支持-blue)](https://support.google.com/adsense/answer/3180977?hl=en) | Google AdSense官方支持中心，提供全面的广告变现指南和最佳实践 |
+| [![AdSense YouTube](https://img.shields.io/badge/AdSense-YouTube频道-red)](https://www.youtube.com/@AdSense) | Google AdSense官方YouTube频道，通过视频教程学习广告优化和收益提升技巧 |
 
 ---
 
