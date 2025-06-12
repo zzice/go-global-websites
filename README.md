@@ -20,6 +20,9 @@
   - [2. 网站性能分析](#2-网站性能分析)
   - [3. SEO 浏览器扩展](#3-seo-浏览器扩展)
   - [4. SEO 学习资源](#4-seo-学习资源)
+  - [5. Google AdSense 资源](#5-google-adsense-资源)
+- [五、创收与变现](#五创收与变现)
+  - [1. 捐赠](#1-捐赠)
 
 ## 一、域名服务
 
@@ -130,6 +133,14 @@
 |------|------|
 | [![AdSense Support](https://img.shields.io/badge/AdSense-官方支持-blue)](https://support.google.com/adsense/answer/3180977?hl=en) | Google AdSense官方支持中心，提供全面的广告变现指南和最佳实践 |
 | [![AdSense YouTube](https://img.shields.io/badge/AdSense-YouTube频道-red)](https://www.youtube.com/@AdSense) | Google AdSense官方YouTube频道，通过视频教程学习广告优化和收益提升技巧 |
+
+## 五、创收与变现
+
+### 1. 捐赠
+| 网站 | 介绍 |
+|------|------|
+| [![Ko-fi](https://img.shields.io/badge/Ko--fi-支持平台-blue)](https://ko-fi.com/) | 简单易用的创作者支持平台，允许粉丝通过"买杯咖啡"的方式支持创作者，无需佣金 |
+| [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-支持平台-yellow)](https://buymeacoffee.com/) | 流行的创作者支持平台，提供简洁的界面让粉丝一次性或定期支持喜爱的创作者 |
 
 ---
 
