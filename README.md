@@ -116,6 +116,7 @@
 | [![WooRank Extension](https://img.shields.io/badge/WooRank-SEO检查-green)](https://www.woorank.com/en/extension) | 使用免费扩展检查任何网站的基本SEO健康状况和评分 |
 | [![AITDK Extension](https://img.shields.io/badge/AITDK-流量分析-green)](https://aitdk.com/extension/) | 免费流量、whois和网站SEO分析扩展 |
 | [![Wappalyzer Extension](https://img.shields.io/badge/Wappalyzer-技术检测-blue)](https://www.wappalyzer.com/apps/) | 跨平台工具，揭示网站使用的技术，检测内容管理系统、电子商务平台、Web框架等 |
+| [![Check My Links](https://img.shields.io/badge/Check_My_Links-链接检测-orange)](https://chromewebstore.google.com/detail/check-my-links/aajoalonednamcpodaeocebfgldhcpbe) | 高效的链接检查器，可爬取网页并查找失效链接，提供下载报告和颜色高亮功能 |
 
 ### 4. SEO 学习资源
 | 网站 | 介绍 |
