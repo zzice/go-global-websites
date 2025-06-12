@@ -22,7 +22,9 @@
   - [4. SEO 学习资源](#4-seo-学习资源)
   - [5. Google AdSense 资源](#5-google-adsense-资源)
 - [五、创收与变现](#五创收与变现)
-  - [1. 捐赠](#1-捐赠)
+  - [1. 支持创作平台](#1-支持创作平台)
+- [六、网站工具与资源](#六网站工具与资源)
+  - [1. 网站存档工具](#1-网站存档工具)
 
 ## 一、域名服务
 
@@ -137,14 +139,23 @@
 
 ## 五、创收与变现
 
-### 1. 捐赠
+### 1. 支持创作平台
 | 网站 | 介绍 |
 |------|------|
 | [![Ko-fi](https://img.shields.io/badge/Ko--fi-支持平台-blue)](https://ko-fi.com/) | 简单易用的创作者支持平台，允许粉丝通过"买杯咖啡"的方式支持创作者，无需佣金 |
 | [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-支持平台-yellow)](https://buymeacoffee.com/) | 流行的创作者支持平台，提供简洁的界面让粉丝一次性或定期支持喜爱的创作者 |
 
+## 六、网站工具与资源
+
+### 1. 网站存档工具
+| 网站 | 介绍 |
+|------|------|
+| [![Internet Archive](https://img.shields.io/badge/Internet_Archive-网站时光机-blue)](https://archive.org/) | 互联网档案馆，提供网站历史存档服务（Wayback Machine），可查看网站的历史版本和已消失的网页内容 |
+
 ---
 
 <div align="center">
   <sub>Built with ❤️ for global website builders.</sub>
+  <br>
+  <sub>Visit my other projects: <a href="https://www.bioaitools.com/">BioAITools</a> | <a href="https://thetatide.com/">ThetaTide</a> | <a href="https://fakesims.com/">FakeSims</a></sub>
 </div>
