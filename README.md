@@ -25,6 +25,8 @@
   - [1. 支持创作平台](#1-支持创作平台)
 - [六、网站工具与资源](#六网站工具与资源)
   - [1. 网站存档工具](#1-网站存档工具)
+- [七、AI API 服务平台](#七ai-api-服务平台)
+  - [1. 语言与多模态模型平台](#1-语言与多模态模型平台)
 
 ## 一、域名服务
 
@@ -151,6 +153,17 @@
 | 网站 | 介绍 |
 |------|------|
 | [![Internet Archive](https://img.shields.io/badge/Internet_Archive-网站时光机-blue)](https://archive.org/) | 互联网档案馆，提供网站历史存档服务（Wayback Machine），可查看网站的历史版本和已消失的网页内容 |
+
+## 七、AI API 服务平台
+
+### 1. 语言与多模态模型平台
+| 网站 | 介绍 |
+|------|------|
+| [![OpenRouter](https://img.shields.io/badge/OpenRouter-语言模型API-blue)](https://openrouter.ai/) | 语言类模型 API 的综合平台，提供多种LLM模型接口统一访问 |
+| [![Together AI](https://img.shields.io/badge/Together_AI-多模态模型-purple)](https://www.together.ai/) | 语言类模型 API 的综合平台，同时也提供少量图片和视频处理模型 |
+| [![Fal.ai](https://img.shields.io/badge/Fal.ai-图像视频API-orange)](https://fal.ai/) | 更专注提供图片和视频类 API，针对计算机视觉任务优化 |
+| [![Replicate](https://img.shields.io/badge/Replicate-全面API平台-green)](https://replicate.com/) | 最全的 API 平台，提供各类开源模型的云端运行能力，缺点是相对其它家比较贵 |
+| [![SiliconFlow](https://img.shields.io/badge/SiliconFlow-国内API平台-red)](https://siliconflow.cn/) | 国内产品！适合小白，提供的 API 少而精，易于使用 |
 
 ---
 
