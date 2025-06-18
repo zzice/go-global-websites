@@ -11,6 +11,7 @@
 - [二、开发与部署](#二开发与部署)
   - [1. 代码托管与部署](#1-代码托管与部署)
   - [2. Nuxt3 SaaS 模板](#2-nuxt3-saas-模板)
+  - [3. Landing Page 组件库](#3-landing-page-组件库)
 - [三、数据分析与优化](#三数据分析与优化)
   - [1. 搜索引擎工具](#1-搜索引擎工具)
   - [2. 关键词研究工具](#2-关键词研究工具)
@@ -65,6 +66,12 @@
 | [![NuxtPlus](https://img.shields.io/badge/NuxtPlus-SaaS模板-purple)](https://nuxtplus.com) | 专业的 Nuxt3 SaaS 模板，提供完整的用户认证、支付集成等功能 |
 | [![NuxtPro](https://img.shields.io/badge/NuxtPro-SaaS模板-purple)](https://nuxtpro.com) | 企业级 Nuxt3 SaaS 解决方案，包含多租户、团队协作等高级功能 |
 | [![NuxtBase](https://img.shields.io/badge/NuxtBase-SaaS模板-purple)](https://nuxtbase.site) | 轻量级 Nuxt3 SaaS 启动模板，适合快速开发小型 SaaS 应用 |
+
+### 3. Landing Page 组件库
+| 网站 | 介绍 |
+|------|------|
+| [![Tailwind UI](https://img.shields.io/badge/Tailwind_UI-组件库-blue)](https://tailwindcss.com/plus/ui-blocks/marketing) | [Tailwind UI](https://tailwindcss.com/plus/ui-blocks/marketing) 提供了构建精美营销网站所需的一切组件，如英雄Hero部分、功能部分、CTA等。 |
+| [![Shipixen](https://img.shields.io/badge/Shipixen-组件库-purple)](https://shipixen.com/boilerplate-documentation/landing-page-components#main) | [Shipixen](https://shipixen.com/boilerplate-documentation/landing-page-components#main) 为 React & Next.js 提供的 Landing Page UI 组件集合，构建于 TailwindCSS 之上。免费且开源。 |
 
 ## 三、数据分析与优化
 
