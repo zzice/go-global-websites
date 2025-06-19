@@ -12,6 +12,7 @@
   - [1. 代码托管与部署](#1-代码托管与部署)
   - [2. Nuxt3 SaaS 模板](#2-nuxt3-saas-模板)
   - [3. Landing Page 组件库](#3-landing-page-组件库)
+  - [4. UI 开发工具](#4-ui-开发工具)
 - [三、数据分析与优化](#三数据分析与优化)
   - [1. 搜索引擎工具](#1-搜索引擎工具)
   - [2. 关键词研究工具](#2-关键词研究工具)
@@ -72,6 +73,12 @@
 |------|------|
 | [![Tailwind UI](https://img.shields.io/badge/Tailwind_UI-组件库-blue)](https://tailwindcss.com/plus/ui-blocks/marketing) | [Tailwind UI](https://tailwindcss.com/plus/ui-blocks/marketing) 提供了构建精美营销网站所需的一切组件，如英雄Hero部分、功能部分、CTA等。 |
 | [![Shipixen](https://img.shields.io/badge/Shipixen-组件库-purple)](https://shipixen.com/boilerplate-documentation/landing-page-components#main) | [Shipixen](https://shipixen.com/boilerplate-documentation/landing-page-components#main) 为 React & Next.js 提供的 Landing Page UI 组件集合，构建于 TailwindCSS 之上。免费且开源。 |
+
+### 4. UI 开发工具
+| 网站 | 介绍 |
+|------|------|
+| [![shadcn-ui-theme](https://img.shields.io/badge/shadcn--ui--theme-主题生成器-blue)](https://zippystarter.com/tools/shadcn-ui-theme-generator) | 一个 [shadcn/ui](https://ui.shadcn.com/) 主题生成器，可以轻松地从单一颜色创建自定义主题。 |
+| [![Tweak](https://img.shields.io/badge/Tweak-Theme_Generator-purple)](https://tweakcn.com/) | Design Your Perfect shadcn/ui Theme. 设计你完美的 shadcn/ui 主题。 |
 
 ## 三、数据分析与优化
 
