@@ -38,6 +38,7 @@
 | [![Leandomainsearch](https://img.shields.io/badge/Leandomainsearch-域名查询-blue)](https://leandomainsearch.com/) | 智能域名搜索工具，支持多种域名后缀查询，提供域名可用性实时检查 |
 | [![Query Domains](https://img.shields.io/badge/Query_Domains-域名查询-blue)](https://query.domains/) | 专业的域名查询工具，支持批量查询和域名建议 |
 | [![Instant Domain Search](https://img.shields.io/badge/Instant_Domain_Search-域名查询-blue)](https://instantdomainsearch.com/) | 实时域名搜索工具，提供即时反馈和域名建议 |
+| [![ExpiredDomains](https://img.shields.io/badge/ExpiredDomains-过期域名-blue)](https://expireddomains.net/) | 专业的过期域名查询平台，提供已过期域名的详细信息和竞拍服务 |
 
 ### 2. 域名注册商
 | 网站 | 介绍 |
